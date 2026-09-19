@@ -1,1 +1,21 @@
-<main class="main"></main>
+<main>
+  <section>
+    <h1>Desserts</h1>
+
+    <ul>
+      @for (item of products; track $index) {
+        <li>
+          <img [src]="item.image" [alt]="item.imageAlt" />
+          <p>{{ item.category }}</p>
+          <p>{{ item.name }}</p>
+          <p>{{ item.price }}</p>
+          <button>Add to Cart</button>
+        </li>
+      }
+    </ul>
+  </section>
+
+  <section>
+    <h2>Your Cart (0)</h2>
+  </section>
+</main>

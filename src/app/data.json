@@ -1,0 +1,65 @@
+[
+  {
+    "image": "./images/image-waffle-desktop.jpg",
+    "imageAlt": "A stack of waffles with strawberries and icing sugar.",
+    "name": "Waffle with Berries",
+    "category": "Waffle",
+    "price": 6.5
+  },
+  {
+    "image": "./images/image-creme-brulee-desktop.jpg",
+    "imageAlt": "Two servings of crème brûlèe with fruit garnish on top.",
+    "name": "Vanilla Bean Crème Brûlée",
+    "category": "Crème Brûlée",
+    "price": 7.0
+  },
+  {
+    "image": "./images/image-macaron-desktop.jpg",
+    "imageAlt": "Five pieces of different coloured macarons.",
+    "name": "Macaron Mix of Five",
+    "category": "Macaron",
+    "price": 8.0
+  },
+  {
+    "image": "./images/image-tiramisu-desktop.jpg",
+    "imageAlt": "A serving of tiramisu on a plate with raspberries on the side.",
+    "name": "Classic Tiramisu",
+    "category": "Tiramisu",
+    "price": 5.5
+  },
+  {
+    "image": "./images/image-baklava-desktop.jpg",
+    "imageAlt": "Three triangular cut pistachio baklavas served vertically aligned on a plate.",
+    "name": "Pistachio Baklava",
+    "category": "Baklava",
+    "price": 4.0
+  },
+  {
+    "image": "./images/image-meringue-desktop.jpg",
+    "imageAlt": "A slice of lemon meringue pie with whipped cream on top.",
+    "name": "Lemon Meringue Pie",
+    "category": "Pie",
+    "price": 5.0
+  },
+  {
+    "image": "./images/image-cake-desktop.jpg",
+    "imageAlt": "A slice of red velvet cake with strawberries inside.",
+    "name": "Red Velvet Cake",
+    "category": "Cake",
+    "price": 4.5
+  },
+  {
+    "image": "./images/image-brownie-desktop.jpg",
+    "imageAlt": "A salted caramel brownie with a scoop of ice cream on top.",
+    "name": "Salted Caramel Brownie",
+    "category": "Brownie",
+    "price": 4.5
+  },
+  {
+    "image": "./images/image-panna-cotta-desktop.jpg",
+    "imageAlt": "A cup of vanilla panna cotta with a garnish on top.",
+    "name": "Vanilla Panna Cotta",
+    "category": "Panna Cotta",
+    "price": 6.5
+  }
+]
